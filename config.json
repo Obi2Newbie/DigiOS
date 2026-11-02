@@ -4,38 +4,38 @@
     "description": "A digimon theme inspired by KantOS",
     "batteryPercentage": { 
         "color": "#EBDBB2",
-        "font": "digimon-world-text-font-psone.ttf",
+        "font": "Pixel.ttf",
         "size": 18
     },
     "title": {
-        "font": "digimon-world-text-font-psone.ttf",
+        "font": "Pixel.ttf",
         "size": 25,
         "color": "#EBDBB2"
     },
     "hint": {
-        "font": "digimon-world-text-font-psone.ttf",
+        "font": "Pixel.ttf",
         "size": 25,
         "color": "#EBDBB2"
     },
     "currentpage": {
-        "font": "digimon-world-text-font-psone.ttf",
+        "font": "Pixel.ttf",
         "size": 22,
         "color": "#EBDBB2"
     },
     "total": {
-        "font": "digimon-world-text-font-psone.ttf",
+        "font": "Pixel.ttf",
         "size": 22,
         "color": "#D65D0E"
     },
     "grid": {
-        "font": "digimon-world-text-font-psone.ttf",
+        "font": "Pixel.ttf",
         "grid1x4": 25,
         "grid3x4": 18,
         "color": "#7C6F64",
         "selectedcolor": "#FBF1C7"
     },
     "list": {
-        "font": "digimon-world-text-font-psone.ttf",
+        "font": "Pixel.ttf",
         "size": 24,
         "color": "#FBF1C7",
         "selectedcolor": "#FBF1C7"
